@@ -189,4 +189,4 @@ we notice this : `Moriarty@Th3Sh3rl0ck3d`, we found the server name `Th3Sh3rl0ck
 
 combining all those, we can get the flag.
 
-- flag: `shellmates{APT221_Cr1m3m4st3rm1ndK1t_Th3Sh3rl0ck3d}`
+- flag: `shellmates{Cr1m3m4st3rm1ndK1t_APT221_Th3Sh3rl0ck3d}`
