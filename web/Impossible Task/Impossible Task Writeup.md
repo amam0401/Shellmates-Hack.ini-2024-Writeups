@@ -71,7 +71,7 @@ that worked, now the only problem is how to bypass the filtered dot in our URL.
 
 notice that the URL is getting `unidecoded`, this means we can specify unicode characters in the parameter, and with this we can actually bypass the filter by specifying other unicode characters that represent dots, i asked ChatGPT to give me some of the dots unicode :
 
-![gpt](gpt.png)
+![gpt](images/gpt.png)
 
 cool, now if we replace the dot in our URL, we get something like this :
 
