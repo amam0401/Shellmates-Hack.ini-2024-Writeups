@@ -63,7 +63,7 @@ first let's intercept the submission request with burpsuite, and when we send it
 
 ![denied](images/denied.png)
 
-that's logical cause the server is set to only receive GET requests on this endpoint, but with GET we can't send json data in the URL, and here comes an interesting technique known as `Fat GET`, which is sending POST data in the body but with a GET request, so let's change the method from GET to POST and send it again :
+that's logical cause the server is set to only receive GET requests on this endpoint, but with GET we can't send json data in the URL, and here comes an interesting technique known as `Fat GET`, which is sending POST data in the body but with a GET request, so let's change the method from POST to GET and send it again :
 
 ![success](images/success.png)
 
