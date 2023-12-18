@@ -58,7 +58,7 @@ we got the paths to some internal apps!
 
 the interesting one is `secret-service`, which is located in `/var/www/secret-service/`, making and educated guess, we try to read the source code of that app in `/var/www/secret-service/app.py` :
 
-![source](URL)
+![source](images/source.png)
 
 and we got it, let's place it here for better visibility :
 
